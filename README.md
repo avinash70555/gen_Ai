@@ -1,2 +1,2 @@
 # gen_Ai
-generative ai project
+generative ai projects
