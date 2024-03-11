@@ -1,4 +1,4 @@
-# Multiple pdf reader web app
+# Generative AI Project
 <br>
 
 
